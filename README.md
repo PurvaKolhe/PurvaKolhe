@@ -74,7 +74,9 @@ I describe myself as result-oriented, customer-focused, data-enthusiast with a d
 <h3>🦄 Apart from Data Science</h3>
 <ul>
     <li>I love to travel 🌍 </li>
-    <!--<li>We can connect to play some games of Chess ♟ -->
+    <!--
+    <li>We can connect to play some games of Chess ♟
+    -->
     <li>Love to decore room 📖</li>
     <li>I like to paint and sketch ✏️</li>
 </ul>
@@ -88,9 +90,9 @@ I describe myself as result-oriented, customer-focused, data-enthusiast with a d
     <a href="mailto: kolhepurva01@gmail.com">
         <img src="https://image.flaticon.com/icons/png/512/732/732200.png" width="30px">
     </a>&nbsp;&nbsp;
-    //<a href="https://github.com/MrinalChaudhari">
-        //<img src="https://image.flaticon.com/icons/png/512/25/25657.png" width="30px">
-    //</a>&nbsp;&nbsp;
+    <a href="https://github.com/PurvaKolhe">
+        <img src="https://image.flaticon.com/icons/png/512/25/25657.png" width="30px">
+    </a>&nbsp;&nbsp;
 </div>
 <hr>
 <br>
