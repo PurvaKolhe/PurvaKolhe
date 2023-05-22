@@ -73,8 +73,8 @@ I describe myself as result-oriented, customer-focused, data-enthusiast with a d
     <!--
     <li>We can connect to play some games of Chess ♟
     -->
-    <li>Love to decore room 📖</li>
-    <li>I like to paint and sketch ✏️</li>
+    <li>Love to decore room 🏡</li>
+    <li>I like to paint and sketch 🎨</li>
 </ul>
 <hr>
 
